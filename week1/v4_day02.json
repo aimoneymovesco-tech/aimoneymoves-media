@@ -1,0 +1,55 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "New this month",
+   "text": "Meta just gave small businesses a *free AI agent*"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *Muse* is",
+   "lines": [
+    "Meta's AI agent, opened to small businesses on Sept 29.",
+    "Free with usage limits. A paid plan if you need more."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "What it *plugs into*",
+   "lines": [
+    "Shopify, Stripe, QuickBooks, Canva, Klaviyo, Notion.",
+    "Plus your Instagram analytics and Facebook Page."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "What it *does*",
+   "lines": [
+    "Learns what you sell and how your brand sounds.",
+    "Drafts posts and replies, reads your numbers, finds customers."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "Source: TechCrunch, Sept 29, 2026.",
+    "Free-tier limits apply. Check what it can post before you let it."
+   ]
+  },
+  {
+   "type": "cta",
+   "text": "Run a small shop? Comment *MUSE* for the setup."
+  }
+ ],
+ "bg_video": "footage/monitor_cash.mp4",
+ "bg_dark": 0.72
+}

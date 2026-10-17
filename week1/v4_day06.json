@@ -1,0 +1,63 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "New this month",
+   "text": "The AI that writes *1,000* product descriptions for about *13 cents*"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "*Claude Haiku 5.5*",
+   "lines": [
+    "Anthropic's smallest model, released Oct 7, 2026.",
+    "*$0.10* in, *$0.50* out, per million tokens."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "The *math*",
+   "lines": [
+    "1,000 descriptions x 150 words = about 200K tokens out.",
+    "$0.10 out plus a few cents in. Call it *13 cents*."
+   ]
+  },
+  {
+   "type": "money",
+   "from": 0,
+   "to": 15000,
+   "label": "what *1,000 listings* sell for",
+   "sub": "FIVERR RATE: $15 TO $50 PER LISTING",
+   "bg_video": "footage/counter_hundreds.mp4"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "The *catch*",
+   "lines": [
+    "That's the API price: you need a script or a tool built on it.",
+    "No code? The Claude app's free plan does a handful for $0."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "Pricing per Anthropic, Oct 7, 2026.",
+    "You still edit. Raw output sells once; edited output gets reviews."
+   ]
+  },
+  {
+   "type": "cta",
+   "text": "Comment *SCRIPT* and I'll post the 10-line version."
+  }
+ ],
+ "bg_video": "footage/coding_ai_night.mp4",
+ "bg_dark": 0.74
+}
