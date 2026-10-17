@@ -1,0 +1,94 @@
+{
+ "pace": 1.35,
+ "bg_dark": 0.82,
+ "palette": "vintage",
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Real story",
+   "text": "A *16-year-old* did *$150K* in sales with ChatGPT and a Walmart run",
+   "bg": "scenes_ethan/scene1.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 5,
+   "title": "Who: *Ethan Alexander*, 16",
+   "lines": [
+    "Kansas City, Missouri. He quit lacrosse and suddenly had time on his hands.",
+    "Started May 2025 with $500 left to him by his great-grandfather.",
+    "First product: Walmart laundry detergent, resold on Amazon."
+   ],
+   "bg": "scenes_ethan/scene5.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 5,
+   "title": "The *AI* part",
+   "lines": [
+    "He trained ChatGPT to write Python code that filtered out products that wouldn't sell.",
+    "Used AI to track inventory and stay organized.",
+    "A seller app showed him fees, stock and the price he needed to profit."
+   ],
+   "bg": "scenes_ethan/scene2.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 5,
+   "title": "The *grind*",
+   "lines": [
+    "Drove 30 to 40 minutes to every big Walmart in the metro, buying out the shelf.",
+    "Summer nights packing orders until 5 or 6 a.m.",
+    "Then Target, Menards, Home Depot, and pallets stacked in his parents' garage."
+   ],
+   "bg": "scenes_ethan/scene3.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 5,
+   "title": "The *numbers*",
+   "lines": [
+    "$10,000 in sales in month one.",
+    "Biggest day: about $6,000 in sales, roughly $2,000 profit.",
+    "Hired virtual assistants to keep up, all while in high school full time."
+   ],
+   "bg": "scenes_ethan/scene4.jpg",
+   "move": "right"
+  },
+  {
+   "type": "money",
+   "from": 0,
+   "to": 150000,
+   "label": "in sales in *10 months*",
+   "sub": "SALES, NOT PROFIT. SOURCE: ENTREPRENEUR, JULY 2026",
+   "bg_video": "footage/money_counter.mp4",
+   "bg_dark": 0.7
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "of": 5,
+   "title": "What *now*",
+   "lines": [
+    "He paused the hustle after $150K to focus on school and new projects.",
+    "Part of the money goes toward college: business or psychology.",
+    "\"I just took what was in front of me and made it mine.\" Entrepreneur, Amanda Breen, July 15, 2026."
+   ],
+   "bg": "scenes_ethan/scene1.jpg",
+   "move": "out"
+  },
+  {
+   "type": "cta",
+   "text": "Want the *ChatGPT filter* he used? Comment *FILTER* and follow.",
+   "bg": "scenes_ethan/scene5.jpg",
+   "move": "in"
+  }
+ ]
+}
