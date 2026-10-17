@@ -1,0 +1,35 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Tool of the day",
+   "text": "This *free* AI tool writes listings people pay *$50* for"
+  },
+  {
+   "type": "chat",
+   "tool": "ChatGPT",
+   "prompt": "Write an Etsy title, short description and 5 tags for my handmade ceramic mug. Audience: people who love slow mornings.",
+   "reply": [
+    "*Title:* Handmade Ceramic Mug | Cozy Slow Morning Coffee Cup",
+    "*Description:* Wheel-thrown and glazed by hand. 12 oz. Keeps your coffee warm and your mornings slow. No two alike.",
+    "*Tags:* handmade mug, ceramic coffee cup, pottery gift, cozy kitchen, slow living"
+   ],
+   "caption": "30 seconds. *Done.*"
+  },
+  {
+   "type": "money",
+   "from": 0,
+   "to": 50,
+   "label": "what sellers *pay* for this",
+   "sub": "TYPICAL FIVERR RATE: $15 TO $50 PER LISTING",
+   "bg_video": "footage/wallet_app.mp4"
+  },
+  {
+   "type": "cta",
+   "text": "Save this. Sell it *tomorrow.*"
+  }
+ ],
+ "bg_video": "footage/laptop_ai_brain.mp4",
+ "bg_dark": 0.66,
+ "pace": 1.2
+}

@@ -1,0 +1,35 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Automate your money",
+   "text": "Let AI *audit* your spending in *60 seconds*"
+  },
+  {
+   "type": "chat",
+   "tool": "Claude",
+   "prompt": "Here are my last 30 days of transactions. Sort them into categories, flag anything recurring I might have forgotten, and tell me the 3 easiest cuts.",
+   "reply": [
+    "*Food & delivery:* $612 (22 orders)",
+    "*Subscriptions:* $148. Forgotten: a gym app ($19.99) and a cloud storage plan ($9.99) with no activity.",
+    "*Easiest cuts:* cancel those two, cap delivery at 8 orders. That's about *$270 back* next month."
+   ],
+   "caption": "Export CSV. Paste. *Done.*"
+  },
+  {
+   "type": "money",
+   "from": 0,
+   "to": 270,
+   "label": "found in *one* paste",
+   "sub": "YOUR NUMBERS WILL DIFFER. THE METHOD IS FREE.",
+   "bg_video": "footage/monitor_cash.mp4"
+  },
+  {
+   "type": "cta",
+   "text": "Save this for payday. Follow for *one tool a day.*"
+  }
+ ],
+ "bg_video": "footage/wallet_app.mp4",
+ "bg_dark": 0.7,
+ "pace": 1.2
+}

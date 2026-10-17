@@ -1,0 +1,36 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "AI side hustles",
+   "text": "Turn *one* blog post into *10* social posts"
+  },
+  {
+   "type": "chat",
+   "tool": "ChatGPT",
+   "prompt": "Here's a 1,200 word blog post about budgeting for freelancers. Turn it into 10 social posts: 3 hooks, 4 tips, 2 quotes, 1 CTA. Short lines, no hashtags.",
+   "reply": [
+    "*Hook 1:* Freelancers don't have a money problem. They have a timing problem.",
+    "*Tip 1:* Pay yourself a fixed salary on the 1st. Everything else stays in the business account.",
+    "*Quote:* \"Irregular income needs a regular system.\"",
+    "*CTA:* Save this for your next invoice week."
+   ],
+   "caption": "That's a *week* of content."
+  },
+  {
+   "type": "money",
+   "from": 0,
+   "to": 500,
+   "label": "what small brands *pay* monthly",
+   "sub": "REPURPOSING GIGS: $200 TO $500 / MO PER CLIENT",
+   "bg_video": "footage/counter_hundreds.mp4"
+  },
+  {
+   "type": "cta",
+   "text": "Save this. Pitch *3 brands* this week."
+  }
+ ],
+ "bg_video": "footage/woman_laptop_tech.mp4",
+ "bg_dark": 0.66,
+ "pace": 1.2
+}

@@ -1,0 +1,56 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "New this week",
+   "text": "ChatGPT can now *click around your browser* for you"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *changed*",
+   "lines": [
+    "OpenAI updated its Chrome extension on Oct 16, 2026.",
+    "Hand it your tabs. It fills forms, sends messages, downloads files."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "The *money* use",
+   "lines": [
+    "List one product on 5 marketplaces. It copies the listing across tabs.",
+    "Pull 20 leads from a directory into your sheet."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "Source: 9to5Google, Oct 16, 2026.",
+    "Give it only the tabs you'd hand an assistant. Watch the first run."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "The *cost*",
+   "lines": [
+    "The extension is free in the Chrome Web Store.",
+    "Usage limits follow your ChatGPT plan."
+   ]
+  },
+  {
+   "type": "cta",
+   "text": "Would you let AI drive your browser? *Yes or no* below."
+  }
+ ],
+ "bg_video": "footage/counting_sunset.mp4",
+ "bg_dark": 0.7,
+ "pace": 1.2
+}
