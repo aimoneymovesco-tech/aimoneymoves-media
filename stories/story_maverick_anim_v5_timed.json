@@ -1,0 +1,111 @@
+{
+ "pace": 1.5,
+ "bg_dark": 0.82,
+ "palette": "vintage",
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Real story",
+   "text": "He left college at 19. Now he makes about *six figures a month* talking about AI.",
+   "bg": "scenes_maverick/scene1.jpg",
+   "move": "in",
+   "say": "Real story. He left college at nineteen. Now he makes about six figures a month, talking about AI.",
+   "dur": 9.03
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 5,
+   "title": "Who: *Maverick Maltin*, 19",
+   "lines": [
+    "Studied digital marketing at Arizona State for one year.",
+    "Left in May 2025 to make AI videos full time. His parents, both founders, backed him.",
+    "His dad worked in tech and put ChatGPT in his hands early."
+   ],
+   "bg": "scenes_maverick/scene2.jpg",
+   "move": "right",
+   "say": "Meet Maverick Maltin, nineteen. He studied digital marketing at Arizona State for one year, then left in May twenty twenty-five to make AI videos full time. His parents, both founders, backed him. His dad worked in tech and put ChatGPT in his hands early.",
+   "dur": 20.53
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 5,
+   "title": "The *AI* part",
+   "lines": [
+    "He shows people aged 30 to 65 everyday ChatGPT uses: prompts, selling garage stuff, interview prep, discount codes.",
+    "His motto: make AI as simple as possible for everyone.",
+    "Early on he even had AI review his own brand contracts."
+   ],
+   "bg": "scenes_maverick/scene3.jpg",
+   "move": "in",
+   "say": "Here's the AI part. He shows people aged thirty to sixty-five everyday ChatGPT uses: prompts, selling garage stuff, interview prep, discount codes. His motto: make AI as simple as possible for everyone. Early on, he even had AI review his own brand contracts.",
+   "dur": 22.07
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 5,
+   "title": "The *growth*",
+   "lines": [
+    "First TikTok in May 2025. An early video hit a million views.",
+    "100,000 followers by August.",
+    "Posts twice a day now, up to four a day at his peak. Consistency is his hardest part."
+   ],
+   "bg": "scenes_maverick/scene1.jpg",
+   "move": "left",
+   "say": "Then the growth. His first TikTok went up in May twenty twenty-five, and an early video hit a million views. He passed one hundred thousand followers by August. He posts twice a day now, up to four a day at his peak, and says consistency is the hardest part.",
+   "dur": 19.74
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 5,
+   "title": "The *numbers*",
+   "lines": [
+    "First brand deal: $2,400 for two videos, after months of building trust first.",
+    "Over 100 brand deals since. Brand deals are 100% of his income.",
+    "Now signed with an agency, with a video editor and a legal team."
+   ],
+   "bg": "scenes_maverick/scene4.jpg",
+   "move": "right",
+   "say": "Now the numbers. His first brand deal paid twenty-four hundred dollars for two videos, after months of building trust first. He has done over one hundred brand deals since, and brand deals are one hundred percent of his income. He's now signed with an agency, with a video editor and a legal team.",
+   "dur": 21.13
+  },
+  {
+   "type": "money",
+   "from": 0,
+   "to": 100000,
+   "label": "a month, *for the last few months*",
+   "sub": "BUSINESS INSIDER REVIEWED HIS FINANCIAL DOCUMENTS",
+   "bg_video": "footage/counter_hundreds.mp4",
+   "bg_dark": 0.7,
+   "say": "Around one hundred thousand dollars a month, for the last few months. Business Insider says it reviewed his financial documents.",
+   "dur": 10.31
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "of": 5,
+   "title": "His *advice*",
+   "lines": [
+    "Don't reinvent the wheel. Copy what works and add your own style.",
+    "Hire help sooner than you think. He waited too long.",
+    "\"Understanding it more than the person next to you puts you ahead of 99% of people.\" Business Insider, July 30, 2026."
+   ],
+   "bg": "scenes_maverick/scene5.jpg",
+   "move": "out",
+   "say": "His advice? Don't reinvent the wheel. Copy what works, and add your own style. Hire help sooner than you think; he waited too long. And his line: understanding AI more than the person next to you puts you ahead of ninety-nine percent of people.",
+   "dur": 18.14
+  },
+  {
+   "type": "cta",
+   "text": "Who do *you* know that needs AI explained simply? Tag them.",
+   "bg": "scenes_maverick/scene2.jpg",
+   "move": "in",
+   "say": "Who do you know that needs AI explained simply? Tag them, and follow AI Money Moves for one money move a day.",
+   "dur": 9.44
+  }
+ ],
+ "voice": "am_michael"
+}
