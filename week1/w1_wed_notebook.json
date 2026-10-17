@@ -1,0 +1,8 @@
+{"scenes":[
+ {"type":"hook","kicker":"New: Sept 2026","text":"Google turns any PDF into a *60-second video*, free"},
+ {"type":"item","n":1,"of":4,"title":"What *changed*","lines":["Gemini Notebook added Short Video Overviews: about 60 seconds, 80+ languages, narration plus animation.","Rolling out since Sept 15 to personal Google accounts too. Source: Google Workspace Updates, Sept 18, 2026."]},
+ {"type":"item","n":2,"of":4,"title":"The *money* use","lines":["Drop in a public report or your own notes. Get an explainer video in about a minute.","Faceless education pages sell exactly this: summaries, study shorts, niche how-tos."]},
+ {"type":"item","n":3,"of":4,"title":"*Tested*, not hyped","lines":["Platforms demonetize mass-produced AI video. Add your own angle and edit, and label it AI.","Only use sources you have the right to use."]},
+ {"type":"item","n":4,"of":4,"title":"The *cost*","lines":["Free with a personal Google account.","Students: 12 months of Google AI free, with higher limits."]},
+ {"type":"cta","text":"Comment *NOTEBOOK* and I'll post the 3-step setup."}
+],"bg_video":"footage/ai_woman_laptop_brain.mp4","bg_dark":0.7,"pace":1.2}

@@ -1,0 +1,8 @@
+{"scenes":[
+ {"type":"hook","kicker":"New: Oct 2, 2026","text":"ChatGPT now *tracks your money* for free"},
+ {"type":"item","n":1,"of":4,"title":"What *changed*","lines":["On Oct 2, OpenAI opened Finances in ChatGPT to Free and Go users in the US.","Link your bank, cards and investments through Plaid. Credit report via Experian, optional."]},
+ {"type":"item","n":2,"of":4,"title":"The *money* use","lines":["Ask: \"Which subscriptions did I pay for twice this year?\" and \"What is my net worth today?\"","One dashboard: spending, net worth, portfolio, credit."]},
+ {"type":"item","n":3,"of":4,"title":"*Tested*, not hyped","lines":["Read-only. It cannot move money, pay bills or trade. US only for now.","Disconnect and the data is deleted within 30 days. Source: OpenAI release notes, Oct 2, 2026."]},
+ {"type":"item","n":4,"of":4,"title":"The *cost*","lines":["Free and Go plans. No upgrade needed.","Plus and Pro already had it."]},
+ {"type":"cta","text":"Would you link your bank to ChatGPT? *Yes or no* below."}
+],"bg_video":"footage/office_young_adult_ai.mp4","bg_dark":0.7,"pace":1.2}

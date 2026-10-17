@@ -1,0 +1,8 @@
+{"scenes":[
+ {"type":"hook","kicker":"New: Oct 7, 2026","text":"ChatGPT now *builds calculators* inside your chat"},
+ {"type":"item","n":1,"of":4,"title":"What *changed*","lines":["GPT-6 landed in ChatGPT on Oct 7 with Intelligent UI: tappable buttons, charts you can edit, built-in calculators.","Free users got it the next day. Source: TechCrunch, Oct 7, 2026."]},
+ {"type":"item","n":2,"of":4,"title":"The *money* use","lines":["Ask: \"Build me a savings calculator for $400 a month at 5%.\" Slide the numbers live.","Freelancers: \"Make a pricing chart for my three packages\" and screenshot it for clients."]},
+ {"type":"item","n":3,"of":4,"title":"*Tested*, not hyped","lines":["Pretty charts can hide wrong math. Check one number by hand before you trust it.","Pro reasoning mode skips the visuals for now."]},
+ {"type":"item","n":4,"of":4,"title":"The *cost*","lines":["Free plan: GPT-6 Luna with Intelligent UI.","Plus and up: GPT-6 Sol."]},
+ {"type":"cta","text":"Save this. *Try the calculator* today."}
+],"bg_video":"footage/office_smiling_typing_man.mp4","bg_dark":0.7,"pace":1.2}
