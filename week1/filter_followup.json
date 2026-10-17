@@ -1,0 +1,35 @@
+{
+ "scenes": [
+  {"type": "hook", "kicker": "You asked: FILTER",
+   "text": "The ChatGPT prompt behind a 16-year-old's *$150K* in Amazon sales"},
+  {"type": "item", "n": 1, "of": 3, "title": "What he *actually* did",
+   "lines": [
+    "Ethan Alexander, 16, had ChatGPT write a Python script that filtered out products that would not sell. Source: Entrepreneur, July 15, 2026.",
+    "His exact prompt is not public. This is our working version of it."
+   ]},
+  {"type": "chat", "tool": "ChatGPT",
+   "prompt": "Write a Python script that reads products.csv (cost, Amazon price, sales rank, reviews) and keeps only items with 30%+ margin after a 15% fee, rank under 50,000 and 100+ reviews. Save them to keepers.csv.",
+   "reply": [
+    "*Done.* Here is filter.py.",
+    "It loads products.csv, works out margin after the 15% referral fee, and drops anything that misses your three rules.",
+    "Run: python filter.py. Output: keepers.csv."
+   ],
+   "caption": "No coding needed. *Paste, run, sort.*"},
+  {"type": "item", "n": 2, "of": 3, "title": "Where the *numbers* come from",
+   "lines": [
+    "Cost: your receipt. Price, rank, reviews: the Amazon listing, or the free Keepa browser extension.",
+    "Start with one Walmart or Target aisle. Twenty products. Let the script pick the five to try."
+   ]},
+  {"type": "money", "from": 0, "to": 150000, "label": "Ethan's sales in *10 months*",
+   "sub": "SALES, NOT PROFIT. ENTREPRENEUR, JULY 2026", "bg_video": "footage/falling_stacks.mp4"},
+  {"type": "item", "n": 3, "of": 3, "title": "*Tested*, not hyped",
+   "lines": [
+    "Resale margins get thin fast. Start with $100 to $500 and track every fee.",
+    "Check Amazon's restricted brands list before you buy anything."
+   ]},
+  {"type": "cta", "text": "Save this. *Try one aisle* this week."}
+ ],
+ "bg_video": "footage/working_ai_night.mp4",
+ "bg_dark": 0.7,
+ "pace": 1.2
+}
