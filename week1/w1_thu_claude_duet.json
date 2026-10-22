@@ -1,0 +1,8 @@
+{"scenes":[
+ {"type":"hook","kicker":"New: Oct 21, 2026","text":"Anthropic just launched an AI that *works while you're away*"},
+ {"type":"item","n":1,"of":4,"title":"What *changed*","lines":["Oct 21: Anthropic announced Claude Duet, a separate app where Claude runs as a proactive agent in the cloud.","A short morning brief, then it checks your email, calendar and apps every few hours and pings you only when something needs you."]},
+ {"type":"item","n":2,"of":4,"title":"The *money* use","lines":["Built for freelancers and small business owners with too much to track.","It reads and drafts on its own: the client reply, the meeting prep, a sales forecast. Nothing sends until you approve."]},
+ {"type":"item","n":3,"of":4,"title":"*Tested*, not hyped","lines":["Waitlist only, US, Pro and Max plans. It asks before it sends, pays, signs or deletes. It cannot trade or move money, even if you ask.","Anthropic says it can misjudge urgency. Read every draft. Source: Anthropic, Oct 21, 2026."]},
+ {"type":"item","n":4,"of":4,"title":"The *cost*","lines":["Included in Claude Pro ($20 a month) and Max. No extra fee.","Its background checks count against your plan limits."]},
+ {"type":"cta","text":"Would you let an AI watch your inbox for you? *Yes or no* below."}
+],"bg_video":"footage/ai_woman_brain_scan.mp4","bg_dark":0.7,"pace":1.2}
