@@ -1,0 +1,8 @@
+{"scenes":[
+ {"type":"hook","kicker":"New: Oct 22, 2026","text":"Canva just built its own *image AI*, and it can spell"},
+ {"type":"item","n":1,"of":4,"title":"What *changed*","lines":["Oct 22: Canva launched Canva Craft, its first image model, trained on millions of human-made Canva templates instead of photos.","Up to 2K, 30-plus sizes, text in 55 languages. Magic Layers turns the image into editable text and objects."]},
+ {"type":"item","n":2,"of":4,"title":"The *money* use","lines":["Printables and posters sell on Etsy, and clients pay for social graphics. The old blocker: AI images with garbage text.","Prompt: \"Vintage coffee shop poster, Open 7am, bold cream lettering on dark teal.\" Fix any letter in Canva, export at 2K."]},
+ {"type":"item","n":3,"of":4,"title":"*Tested*, not hyped","lines":["Canva's 'fourth best image model' claim comes from DesignArena, a community vote, not an independent test. Proof every letter before you sell.","Check Canva's AI content terms before listing anything. Source: Canva newsroom and TechCrunch, Oct 22, 2026."]},
+ {"type":"item","n":4,"of":4,"title":"The *cost*","lines":["Every Canva account worldwide, free plan included, in the Dream Lab tab.","Canva has not published a credit cap for Craft. Expect your plan's AI limits to apply."]},
+ {"type":"cta","text":"Would you sell a poster made with AI? *Yes or no* below."}
+],"bg_video":"footage/office_woman_silhouette.mp4","bg_dark":0.72,"pace":1.2}
