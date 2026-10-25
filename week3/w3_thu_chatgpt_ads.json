@@ -1,0 +1,56 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "AI news: Oct 21, 2026",
+   "text": "ChatGPT *ads* just went live in *89 countries*"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *changed*",
+   "lines": [
+    "Oct 21: OpenAI opened ChatGPT ads in 26 more countries, 89 total, with a self-serve Ads Manager.",
+    "Ads show only on the Free and Go plans. Over 100,000 advertisers already."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "The *money* use",
+   "lines": [
+    "Small sellers can now buy ChatGPT ads the way they buy Meta ads.",
+    "Test one product with a tiny budget before your niche catches on."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "OpenAI said ads hit a $1 billion annual run rate in August. Early inventory is cheap; that won't last.",
+    "Source: The Next Web, Oct 21, 2026."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "The *cost*",
+   "lines": [
+    "Self-serve, pay as you go. OpenAI hasn't published a minimum spend.",
+    "Paying ChatGPT users never see them, so you reach the free crowd only."
+   ]
+  },
+  {
+   "type": "cta",
+   "text": "Would you *buy ads* inside ChatGPT? *Yes or no* below."
+  }
+ ],
+ "bg_dark": 0.72,
+ "pace": 1.2,
+ "bg_video": "footage/bitcoin_toss.mp4"
+}

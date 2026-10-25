@@ -1,0 +1,92 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Breakdown: you asked",
+   "text": "The *one-product store* weekend, with Shopify Canvas",
+   "bg": "scenes_w3/studio.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 6,
+   "title": "Friday: *pick the product*",
+   "lines": [
+    "One thing you can make or source in a week: candles, a print, a digital template.",
+    "Claude prompt: 'Give me 10 one-product store ideas under $20 to make, with a 3x markup.'"
+   ],
+   "bg": "scenes_w3/studio.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 6,
+   "title": "Saturday: *build the store*",
+   "lines": [
+    "Start the Shopify trial: 3 days free, then $1 a month for 3 months.",
+    "Sidekick prompt: 'Dark minimal store for one soy candle: big hero photo, 3 benefits, reviews, FAQ, free-shipping bar.'"
+   ],
+   "bg": "scenes_w3/studio.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 6,
+   "title": "Saturday: *the photos*",
+   "lines": [
+    "Shoot the real product by a window on your phone. Lifestyle shots can come from Canva Craft, but the hero must be real.",
+    "Eight photos: front, side, in hand, in use."
+   ],
+   "bg": "scenes_w3/studio.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 6,
+   "title": "Sunday: *launch*",
+   "lines": [
+    "Ask ChatGPT for 7 days of short-video scripts about the product.",
+    "Post one a day. Offer a launch code to the first 20 orders."
+   ],
+   "bg": "scenes_w3/studio.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "of": 6,
+   "title": "The *math*",
+   "lines": [
+    "Candle costs $6 to make, sells for $24. After 2.9% plus 30 cents processing, about $17 profit each.",
+    "20 orders a month is about $340. A side income, not a salary."
+   ],
+   "bg": "scenes_w3/studio.jpg",
+   "move": "out"
+  },
+  {
+   "type": "item",
+   "n": 6,
+   "of": 6,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "Canvas is desktop only and can't use third-party themes yet.",
+    "Most first stores sell to friends first. Source: TechCrunch, Oct 1, 2026; Shopify pricing, Oct 2026."
+   ],
+   "bg": "scenes_w3/studio.jpg",
+   "move": "in"
+  },
+  {
+   "type": "cta",
+   "text": "Would you launch *one product* this weekend? *Yes or no* below.",
+   "bg": "scenes_w3/studio.jpg",
+   "move": "left"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}

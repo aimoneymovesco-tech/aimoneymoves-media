@@ -1,0 +1,94 @@
+{
+ "pace": 1.35,
+ "bg_dark": 0.82,
+ "palette": "vintage",
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Real story",
+   "text": "Two *21-year-olds* built a *$13 million* study app with cookies",
+   "bg": "scenes_w3/turbo1.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 5,
+   "title": "Who: *Rudy Arora & Sarthak Dhawan*, 21",
+   "lines": [
+    "Met in middle school near Dallas. Northwestern and Duke freshmen in fall 2023.",
+    "Launched Turbo AI in January 2024: an AI note-taker for students.",
+    "Both dropped out. \"Looking back, I think we dropped out a little late.\""
+   ],
+   "bg": "scenes_w3/turbo1.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 5,
+   "title": "The *cookie* trick",
+   "lines": [
+    "First 1,000 users came from handing out cookies in the dining hall.",
+    "Arora posted TikToks three to four times a day.",
+    "Paid friends and small creators $5 a video, plus a bonus if it went viral."
+   ],
+   "bg": "scenes_w3/turbo2.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 5,
+   "title": "The *AI* part",
+   "lines": [
+    "Turbo turns lectures and PDFs into notes, flashcards and quizzes.",
+    "Dhawan's favorite tool now is Claude Code. \"I can feel my coding skills atrophying.\"",
+    "Team of about ten, six of them engineers."
+   ],
+   "bg": "scenes_w3/turbo3.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 5,
+   "title": "The *numbers*",
+   "lines": [
+    "Almost $500,000 a month by March 2025.",
+    "Five million users, about 20,000 new ones a day. Profitable.",
+    "Raised $750,000. Students pay about $20 a month."
+   ],
+   "bg": "scenes_w3/turbo4.jpg",
+   "move": "right"
+  },
+  {
+   "type": "money",
+   "from": 0,
+   "to": 13000000,
+   "label": "lifetime *revenue*",
+   "sub": "SOURCE: BUSINESS INSIDER, JUNE 29, 2026",
+   "bg_video": "footage/banknotes_track.mp4",
+   "bg_dark": 0.6
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "of": 5,
+   "title": "The *lesson*",
+   "lines": [
+    "No ad budget at the start. Cookies, TikToks and $5 creators did the work.",
+    "Build for the campus you're standing on.",
+    "Business Insider, as told to Agnes Applegate, June 29, 2026; TechCrunch, Oct 23, 2025."
+   ],
+   "bg": "scenes_w3/turbo5.jpg",
+   "move": "out"
+  },
+  {
+   "type": "cta",
+   "text": "Want the *$5-a-video* creator playbook? Comment *CREATORS* and follow.",
+   "bg": "scenes_w3/turbo4.jpg",
+   "move": "in"
+  }
+ ]
+}

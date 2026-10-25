@@ -1,0 +1,68 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "New: Oct 19, 2026",
+   "text": "Gemini *Notebook* now lets you *edit the deck* before it builds it",
+   "bg": "scenes_w3/present.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *changed*",
+   "lines": [
+    "Oct 19: Notebook's Slide Decks and Video Overviews got co-creation. You see the outline first, change it, then it renders.",
+    "Rolling out to all Notebook users through late October."
+   ],
+   "bg": "scenes_w3/present.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "The *money* use",
+   "lines": [
+    "Client pitch decks. Drop in the client's site, your case studies and a call transcript.",
+    "Prompt: 'Ten-slide proposal for a dental clinic: problem, 3 packages, timeline, price.' Fix the outline, render, send."
+   ],
+   "bg": "scenes_w3/present.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "It only knows what you upload, so weak sources make a weak deck.",
+    "Check every number before a client sees it. Source: Google Keyword blog, Oct 19; Workspace Updates, Oct 21, 2026."
+   ],
+   "bg": "scenes_w3/present.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "The *cost*",
+   "lines": [
+    "Free Notebook accounts get the feature. Google AI Pro ($19.99 a month) raises the daily limits.",
+    "A deck that took a day now takes an hour. Bill the same."
+   ],
+   "bg": "scenes_w3/present.jpg",
+   "move": "right"
+  },
+  {
+   "type": "cta",
+   "text": "Would you send a client an *AI-built deck*? *Yes or no* below.",
+   "bg": "scenes_w3/present.jpg",
+   "move": "out"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}

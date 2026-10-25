@@ -1,0 +1,68 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "New: Oct 19, 2026",
+   "text": "Gemini can now *publish an app* to your *website* in one click",
+   "bg": "scenes_w3/contractor.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *changed*",
+   "lines": [
+    "Oct 19: build a calculator, quiz or dashboard in the Gemini app, hit Export, pick Google Sites.",
+    "It creates a private draft site you can publish. Personal Google accounts included."
+   ],
+   "bg": "scenes_w3/contractor.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "The *money* use",
+   "lines": [
+    "A quote calculator on your site turns visitors into leads.",
+    "Prompt: 'Build a lawn-care quote calculator: yard size, frequency, extras; show a price and a Book Now button.'"
+   ],
+   "bg": "scenes_w3/contractor.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "It's a Google Site, so it won't drop into WordPress or Shopify. Link to it instead.",
+    "Expect to fix the math by hand. Source: Google Workspace Updates, Oct 19; Chrome Unboxed, Oct 20, 2026."
+   ],
+   "bg": "scenes_w3/contractor.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "The *cost*",
+   "lines": [
+    "Free with a Google account that has Gemini. Google Sites is free.",
+    "Paid Gemini plans give more generations a day; the free tier is enough to ship one calculator."
+   ],
+   "bg": "scenes_w3/contractor.jpg",
+   "move": "right"
+  },
+  {
+   "type": "cta",
+   "text": "What would you build: *calculator*, *quiz* or *dashboard*? Comment below.",
+   "bg": "scenes_w3/contractor.jpg",
+   "move": "out"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}

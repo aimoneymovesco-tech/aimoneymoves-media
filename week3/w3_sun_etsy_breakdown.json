@@ -1,0 +1,92 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Breakdown: you asked",
+   "text": "How to sell *AI art on Etsy* under the *new rules*",
+   "bg": "scenes_w3/desk.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 6,
+   "title": "Step 1: *pick a lane*",
+   "lines": [
+    "Wall art, printable planners, party invites. One niche, one style.",
+    "Read Etsy's Oct 22, 2026 AI rules first: you need a real creative role, and you must disclose the AI."
+   ],
+   "bg": "scenes_w3/desk.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 6,
+   "title": "Step 2: *make it in Canva Craft*",
+   "lines": [
+    "Canva's Craft image model (free, Dream Lab tab) handles lettering, so posters with words finally work.",
+    "Prompt: 'Vintage botanical print, cream paper, sage green, 18 by 24, no text.' Then fix colors and layout yourself."
+   ],
+   "bg": "scenes_w3/desk.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 6,
+   "title": "Step 3: *prove it's real*",
+   "lines": [
+    "Print one copy. Shoot an unedited photo of it on a wall or desk. Etsy now requires one.",
+    "Add a line in the description: made with AI tools, finished by me."
+   ],
+   "bg": "scenes_w3/desk.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 6,
+   "title": "Step 4: *list it right*",
+   "lines": [
+    "Claude prompt: 'Write an Etsy title and 13 tags for this print; shopper language, no AI hype.'",
+    "Offer a digital download and a printed version. Downloads cost nothing to ship."
+   ],
+   "bg": "scenes_w3/desk.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "of": 6,
+   "title": "The *math*",
+   "lines": [
+    "A $12 download: Etsy keeps 20 cents listing, 78 cents transaction, 61 cents processing. You keep about $10.40.",
+    "Ten sales a week is roughly $450 a month. Sales, not a guarantee."
+   ],
+   "bg": "scenes_w3/desk.jpg",
+   "move": "out"
+  },
+  {
+   "type": "item",
+   "n": 6,
+   "of": 6,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "Nobody buys on day one. Expect weeks of zero while listings index.",
+    "Rules change and Etsy can remove listings. Source: Etsy Seller Handbook, Oct 22, 2026."
+   ],
+   "bg": "scenes_w3/desk.jpg",
+   "move": "in"
+  },
+  {
+   "type": "cta",
+   "text": "Would you list *one print* this week? *Yes or no* below.",
+   "bg": "scenes_w3/desk.jpg",
+   "move": "left"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}

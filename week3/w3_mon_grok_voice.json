@@ -1,0 +1,56 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "New: Oct 14, 2026",
+   "text": "Grok's new *voice AI* answers phones for *8 cents a minute*"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *changed*",
+   "lines": [
+    "Oct 14: xAI released Grok Voice 3.0. Sub-second replies; it ranked first on the Artificial Analysis speech-to-speech index at 86.9.",
+    "Starlink's call centers run it: about 20,000 calls a day, roughly 70% resolved without a human."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "The *money* use",
+   "lines": [
+    "Build an AI receptionist for a local business: books appointments, answers hours, takes messages.",
+    "xAI's no-code Voice Agent Builder (July 2026) sets it up. Charge the business a monthly fee."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "Starlink's numbers are xAI's own. Test it on your own phone line before selling it to anyone.",
+    "You still need a phone-number provider on top. Source: xAI docs and Unite.AI, Oct 14, 2026."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "The *cost*",
+   "lines": [
+    "$0.08 a minute, same as Voice 2.0. That's $4.80 for an hour of calls.",
+    "A shop taking 200 minutes of calls a month pays about $16 in API fees."
+   ]
+  },
+  {
+   "type": "cta",
+   "text": "Know a business that *misses calls*? Tag them below."
+  }
+ ],
+ "bg_dark": 0.72,
+ "pace": 1.2,
+ "bg_video": "footage/office_bearded_man.mp4"
+}

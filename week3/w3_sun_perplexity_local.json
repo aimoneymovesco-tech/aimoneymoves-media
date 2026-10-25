@@ -1,0 +1,56 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "New: Oct 20, 2026",
+   "text": "Perplexity's *AI agent* now runs *fully on your Mac*, offline"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *changed*",
+   "lines": [
+    "Oct 20: Perplexity Computer for Mac added a fully local mode. The model runs on your machine; nothing leaves it.",
+    "It works inside Notes, Messages, Mail, Keynote and Numbers."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "The *money* use",
+   "lines": [
+    "Freelancers with client files under NDA can finally put an AI agent on them.",
+    "Try: 'Open the Q3 numbers, build a Keynote summary, draft the client email.' All offline."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "Perplexity recommends 36 GB of unified memory; hybrid mode starts at 24 GB. Older Macs are out.",
+    "Web and current info still need the cloud. Source: MacRumors and AppleInsider, Oct 20, 2026."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "The *cost*",
+   "lines": [
+    "Pro, Max and Enterprise plans. Perplexity Pro is $20 a month.",
+    "Perplexity hasn't said whether local runs use credits. Check before you lean on it."
+   ]
+  },
+  {
+   "type": "cta",
+   "text": "Would you let an *AI agent* loose on your files? *Yes or no* below."
+  }
+ ],
+ "bg_dark": 0.72,
+ "pace": 1.2,
+ "bg_video": "footage/office_suit_man.mp4"
+}

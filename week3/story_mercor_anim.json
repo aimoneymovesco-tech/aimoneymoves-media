@@ -1,0 +1,94 @@
+{
+ "pace": 1.35,
+ "bg_dark": 0.82,
+ "palette": "vintage",
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Real story",
+   "text": "Three *22-year-olds* built a *$2 billion* AI hiring machine",
+   "bg": "scenes_w3/mercor5.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 5,
+   "title": "Who: *Foody, Hiremath & Midha*, 22",
+   "lines": [
+    "Bay Area high-school debate teammates.",
+    "Brendan Foody dropped out of Georgetown; Thiel Fellow.",
+    "Mercor, 2023: AI interviews that match experts with AI labs."
+   ],
+   "bg": "scenes_w3/mercor2.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 5,
+   "title": "The *hackathon*",
+   "lines": [
+    "The idea took shape at a hackathon in Sao Paulo.",
+    "$1 million run rate in nine months.",
+    "\"I've worked every day for the last three years.\""
+   ],
+   "bg": "scenes_w3/mercor1.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 5,
+   "title": "The *AI* part",
+   "lines": [
+    "Candidates do a 20-minute video interview with an AI.",
+    "Mercor then places doctors, lawyers and coders to train AI models.",
+    "Contractors keep 60 to 70% of what the labs pay."
+   ],
+   "bg": "scenes_w3/mercor3.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 5,
+   "title": "The *numbers*",
+   "lines": [
+    "Experts average $95 an hour, from $20 to $375.",
+    "Over 100,000 freelancers, about 30,000 active each week.",
+    "A $350 million round at a $10 billion valuation made them the youngest self-made billionaires."
+   ],
+   "bg": "scenes_w3/mercor4.jpg",
+   "move": "right"
+  },
+  {
+   "type": "money",
+   "from": 0,
+   "to": 2000000000,
+   "label": "annualized *gross run rate*",
+   "sub": "SOURCE: THE NEXT WEB, JULY 10, 2026",
+   "bg": "scenes_w3/mercor4.jpg",
+   "move": "out"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "of": 5,
+   "title": "The *catch*",
+   "lines": [
+    "Gross run rate counts what labs pay; most of it goes to the experts.",
+    "A March 2026 vendor breach paused work with Meta.",
+    "Fortune, Nov 29, 2025; The Next Web, July 10, 2026; 60 Minutes, Oct 4, 2026."
+   ],
+   "bg": "scenes_w3/mercor5.jpg",
+   "move": "out"
+  },
+  {
+   "type": "cta",
+   "text": "Want to *get paid* training AI? Comment *EXPERT* and follow.",
+   "bg": "scenes_w3/mercor1.jpg",
+   "move": "in"
+  }
+ ]
+}

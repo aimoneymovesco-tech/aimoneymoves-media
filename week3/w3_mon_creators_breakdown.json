@@ -1,0 +1,92 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Breakdown: you asked",
+   "text": "The *$5-a-video* creator trick that grew Turbo AI",
+   "bg": "scenes_w3/cafe.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 6,
+   "title": "What *it is*",
+   "lines": [
+    "Turbo AI's founders paid friends and small creators $5 per TikTok, plus a bonus if one went viral.",
+    "Zach Yadegari used the same play for Cal AI. Lots of small videos beat one big ad."
+   ],
+   "bg": "scenes_w3/cafe.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 6,
+   "title": "Step 1: *the brief*, with ChatGPT",
+   "lines": [
+    "Prompt: 'Write a one-page creator brief for my app: 3 hooks, must-say features, 15-second format, hashtags.'",
+    "Keep it to one page. Creators skim."
+   ],
+   "bg": "scenes_w3/cafe.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 6,
+   "title": "Step 2: *find 20 creators*",
+   "lines": [
+    "Search your niche on TikTok. Filter 1,000 to 20,000 followers. DM twenty.",
+    "Offer $5 per video plus $50 if it clears 100,000 views. Pay the same day."
+   ],
+   "bg": "scenes_w3/cafe.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 6,
+   "title": "Step 3: *track it*",
+   "lines": [
+    "Claude prompt: 'Build me a Google Sheet tracker: creator, link, views at 24 hours and 7 days, paid.'",
+    "Double down on the two creators whose videos actually move signups."
+   ],
+   "bg": "scenes_w3/cafe.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "of": 6,
+   "title": "The *math*",
+   "lines": [
+    "20 creators times 3 videos is 60 videos for $300. One viral hit plus its bonus is still under $400.",
+    "Turbo AI got its first 1,000 users with cookies and this. Source: Business Insider, June 29, 2026."
+   ],
+   "bg": "scenes_w3/cafe.jpg",
+   "move": "out"
+  },
+  {
+   "type": "item",
+   "n": 6,
+   "of": 6,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "Most videos will flop. The method works on volume, not luck.",
+    "Disclose paid posts; TikTok requires the branded-content label."
+   ],
+   "bg": "scenes_w3/cafe.jpg",
+   "move": "in"
+  },
+  {
+   "type": "cta",
+   "text": "Would you spend *$300* on 60 videos? *Yes or no* below.",
+   "bg": "scenes_w3/cafe.jpg",
+   "move": "left"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}

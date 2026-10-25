@@ -1,0 +1,56 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "New: Oct 1, 2026",
+   "text": "Shopify now lets you *build a store* by *chatting*"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *changed*",
+   "lines": [
+    "Oct 1: Shopify Canvas went live for every merchant. Describe the store to Sidekick and it writes real theme code.",
+    "Change a section, a color, a layout by typing. Desktop only for now."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "The *money* use",
+   "lines": [
+    "One-product stores used to need a theme developer or a weekend fighting the editor.",
+    "Prompt: 'Build a dark, minimal store for one handmade candle: big hero photo, reviews, FAQ.' Then sell."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "No third-party themes or app blocks yet, so if your store leans on apps, wait.",
+    "It makes the storefront, not the product or the traffic. Source: TechCrunch, Oct 1, 2026."
+   ]
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "The *cost*",
+   "lines": [
+    "Canvas is included with Shopify. Trial: 3 days free, then $1 a month for 3 months.",
+    "After that, Basic is $39 a month, or $29 billed yearly."
+   ]
+  },
+  {
+   "type": "cta",
+   "text": "Want the *one-product store* weekend plan? Comment *STORE* and follow."
+  }
+ ],
+ "bg_dark": 0.75,
+ "pace": 1.2,
+ "bg_video": "footage/laptop_graphics.mp4"
+}

@@ -1,0 +1,92 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Breakdown: you asked",
+   "text": "How to *get paid* training AI models through *Mercor*",
+   "bg": "scenes_w3/interview.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 6,
+   "title": "Step 1: *the profile*",
+   "lines": [
+    "Sign up at mercor.com, upload a resume, pick your fields: law, medicine, finance, coding, writing.",
+    "Credentials matter. Licensed and published people get the higher-paid projects."
+   ],
+   "bg": "scenes_w3/interview.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 6,
+   "title": "Step 2: *the AI interview*",
+   "lines": [
+    "About 20 minutes on video with Mercor's AI interviewer. Talk like you would to a hiring manager.",
+    "Have two real work examples ready to describe in detail."
+   ],
+   "bg": "scenes_w3/interview.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 6,
+   "title": "Step 3: *the wait*",
+   "lines": [
+    "Matching takes two to four weeks. Many people hear nothing at all.",
+    "Apply to listed projects too; don't wait for the match."
+   ],
+   "bg": "scenes_w3/interview.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 6,
+   "title": "The *pay*",
+   "lines": [
+    "Entry data tasks $12 to $25 an hour. Coding and RLHF work $25 to $53. Licensed doctors, lawyers and PhDs $75 to $200 plus.",
+    "Average quoted on 60 Minutes, Oct 2026: $95 an hour. Weekly payouts through Stripe."
+   ],
+   "bg": "scenes_w3/interview.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "of": 6,
+   "title": "The *fine print*",
+   "lines": [
+    "You're a 1099 contractor: no benefits, you handle taxes.",
+    "Work comes in waves; a project can end without warning."
+   ],
+   "bg": "scenes_w3/interview.jpg",
+   "move": "out"
+  },
+  {
+   "type": "item",
+   "n": 6,
+   "of": 6,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "The average is pulled up by specialists. Most newcomers start at the bottom tier.",
+    "Sources: Mercor on 60 Minutes, Oct 4, 2026; HeroHunt, TIME and Built In pay guides."
+   ],
+   "bg": "scenes_w3/interview.jpg",
+   "move": "in"
+  },
+  {
+   "type": "cta",
+   "text": "Would you *train AI* for $25 an hour? *Yes or no* below.",
+   "bg": "scenes_w3/interview.jpg",
+   "move": "left"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}

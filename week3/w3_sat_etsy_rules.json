@@ -1,0 +1,68 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "AI news: Oct 22, 2026",
+   "text": "Etsy just *rewrote the rules* for selling AI stuff",
+   "bg": "scenes_w3/etsy.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *changed*",
+   "lines": [
+    "Oct 22: Etsy's new AI rules. Bot-generated listings are banned, and so are untested AI-written guides, patterns and recipes.",
+    "Every listing needs one unedited photo of the real item. AI art stays allowed if you shaped it and disclose it."
+   ],
+   "bg": "scenes_w3/etsy.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "The *money* use",
+   "lines": [
+    "The flood of lazy AI shops just got cut. If you actually make the thing, you now have less competition.",
+    "Prompt Claude: 'Rewrite my 5 listings to pass Etsy's Oct 2026 AI policy: real photo, my creative role stated, no bot filler.'"
+   ],
+   "bg": "scenes_w3/etsy.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "A digital download only passes if it shows a real result: a finished pattern, a tested recipe.",
+    "Listings that break the rules can be removed. Source: Etsy Seller Handbook, Oct 22, 2026."
+   ],
+   "bg": "scenes_w3/etsy.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "The *cost*",
+   "lines": [
+    "Etsy: 20 cents per listing, 6.5% of each sale, plus 3% and 25 cents processing. No monthly fee.",
+    "Claude and ChatGPT free tiers rewrite listings. Canva's Craft image model is free in Dream Lab."
+   ],
+   "bg": "scenes_w3/etsy.jpg",
+   "move": "right"
+  },
+  {
+   "type": "cta",
+   "text": "Want our *Etsy-safe AI art* listing checklist? Comment *ETSY* and follow.",
+   "bg": "scenes_w3/etsy.jpg",
+   "move": "out"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}
