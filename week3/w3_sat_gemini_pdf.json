@@ -1,0 +1,30 @@
+{
+ "scenes": [
+  {"type": "hook", "kicker": "New: Oct 29, 2026",
+   "text": "Gemini now *builds and edits PDFs* right in the chat. *Free.*",
+   "bg": "scenes_w3/pdf_table.jpg", "move": "in"},
+  {"type": "item", "n": 1, "of": 4, "title": "What *changed*",
+   "lines": [
+    "Oct 29: ask the Gemini app for a PDF, doc, slide deck or spreadsheet and it appears in the chat. Expand it to edit, or highlight a line and say what to change.",
+    "Every user, every language Gemini supports. PDFs work on your phone; docs, sheets and slides are web only."
+   ], "bg": "scenes_w3/pdf_table.jpg", "move": "right"},
+  {"type": "item", "n": 2, "of": 4, "title": "The *money* use",
+   "lines": [
+    "Make a PDF once, sell it for months: a budgeting workbook, a meal-prep guide, a wedding checklist.",
+    "Prompt: 'Make a 12-page PDF meal-prep guide for college students on $50 a week, with a shopping list and a 7-day plan.' Sell it on Gumroad, Payhip or your own site."
+   ], "bg": "scenes_w3/pdf_table.jpg", "move": "left"},
+  {"type": "item", "n": 3, "of": 4, "title": "*Tested*, not hyped",
+   "lines": [
+    "Proofread every page and test any recipe or tip yourself first. Etsy now bans untested AI guides (more on that tomorrow).",
+    "Source: Google, Oct 29, 2026; Digital Trends, Oct 29, 2026."
+   ], "bg": "scenes_w3/pdf_table.jpg", "move": "in"},
+  {"type": "item", "n": 4, "of": 4, "title": "The *cost*",
+   "lines": [
+    "Free with a Google account, in the Gemini app or on the web.",
+    "Paid Gemini plans only raise the daily limits. The free tier builds your first PDF today."
+   ], "bg": "scenes_w3/pdf_table.jpg", "move": "right"},
+  {"type": "cta", "text": "What PDF would you *sell first*? Comment it. *Save this* for the weekend.",
+   "bg": "scenes_w3/pdf_table.jpg", "move": "out"}
+ ],
+ "bg_dark": 0.8, "pace": 1.2, "palette": "vintage"
+}
