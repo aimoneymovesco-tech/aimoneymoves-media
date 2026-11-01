@@ -1,0 +1,68 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "New: Oct 13, 2026",
+   "text": "Gemini's new *tasks mode* keeps working *while you're away*",
+   "bg": "scenes_w4/argon.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *changed*",
+   "lines": [
+    "Oct 13: Gemini 4 Argon reached the Gemini app for AI Pro and Ultra, with a chat-or-tasks switch.",
+    "In tasks mode it keeps working across your Google apps and 40-plus connected apps: Shopify, Instacart, OpenTable, Adobe."
+   ],
+   "bg": "scenes_w4/argon.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "The *money* use",
+   "lines": [
+    "Shop owners: 'Every morning, check my Shopify orders, draft the low-stock reorder list and email it to me.'",
+    "Google's own examples: order groceries, book tables, design and build a business."
+   ],
+   "bg": "scenes_w4/argon.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "Paid plans only; the free tier does not get Argon.",
+    "Agents make mistakes with real orders. Start with drafts, not purchases. Source: Google, Oct 13; 9to5Google, Oct 13, 2026."
+   ],
+   "bg": "scenes_w4/argon.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "The *cost*",
+   "lines": [
+    "Google AI Pro is $19.99 a month. Ultra costs more and unlocks the coding tools.",
+    "One useful morning task pays for the plan if it saves you 30 minutes a day."
+   ],
+   "bg": "scenes_w4/argon.jpg",
+   "move": "right"
+  },
+  {
+   "type": "cta",
+   "text": "What task would you *hand off* first? Comment it.",
+   "bg": "scenes_w4/argon.jpg",
+   "move": "out"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}

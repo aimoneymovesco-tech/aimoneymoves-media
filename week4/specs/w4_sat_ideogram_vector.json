@@ -1,0 +1,68 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "New: Oct 22, 2026",
+   "text": "Ideogram now makes *editable logos* as *real vector files*",
+   "bg": "scenes_w4/vector.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *changed*",
+   "lines": [
+    "Oct 22: Ideogram Vector 1.0. Type a prompt, get one clean SVG you can edit in Illustrator, Figma or Canva.",
+    "It also turns a JPG or PNG you already own into a vector."
+   ],
+   "bg": "scenes_w4/vector.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "The *money* use",
+   "lines": [
+    "Logos, stickers and cut files sell as SVGs. Etsy's SVG category is huge, and print shops need vectors.",
+    "Prompt: 'Minimal badge logo for a mobile dog groomer, one color, bold, no gradients.' Then clean the paths yourself."
+   ],
+   "bg": "scenes_w4/vector.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "The vendor license is not a trademark check. Search the USPTO before you sell a logo.",
+    "Etsy's Oct 22 rules want your creative role stated and a real preview. Source: Ideogram, Oct 22; Digital Applied, Oct 23, 2026."
+   ],
+   "bg": "scenes_w4/vector.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "The *cost*",
+   "lines": [
+    "API: 13 to 32 cents per SVG. Image to vector: 10 cents.",
+    "App: a free tier with slow credits; Plus is $15 a month for 1,000 credits. Check that your plan includes Vector."
+   ],
+   "bg": "scenes_w4/vector.jpg",
+   "move": "right"
+  },
+  {
+   "type": "cta",
+   "text": "Want the *SVG shop* setup? Comment *VECTOR* and follow.",
+   "bg": "scenes_w4/vector.jpg",
+   "move": "out"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}

@@ -1,0 +1,92 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Most watched last week",
+   "text": "Claude in Google Sheets: the *$150 spreadsheet cleanup* offer, step by step",
+   "bg": "scenes_w4/books_bd.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 6,
+   "title": "Why *this*",
+   "lines": [
+    "Claude's Sheets add-on (Oct 6, public beta) was our most-watched tool reel last week.",
+    "Here is how to turn it into a paid offer."
+   ],
+   "bg": "scenes_w4/books_bd.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 6,
+   "title": "Step 1: *find the mess*",
+   "lines": [
+    "Every small shop has a spreadsheet nobody trusts. Offer a one-time cleanup for $150.",
+    "Ask for a copy, never the live file."
+   ],
+   "bg": "scenes_w4/books_bd.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 6,
+   "title": "Step 2: *the cleanup prompt*",
+   "lines": [
+    "In Sheets: Extensions, Claude. 'Standardize dates, split name into first and last, flag duplicates, add a monthly totals tab with a chart.'",
+    "'Ask before edits' is on by default. Approve each change."
+   ],
+   "bg": "scenes_w4/books_bd.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 6,
+   "title": "Step 3: *the report*",
+   "lines": [
+    "'Add a Summary tab: top five expenses, months over budget, three one-line recommendations.'",
+    "Export to PDF and send it with the clean sheet."
+   ],
+   "bg": "scenes_w4/books_bd.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "of": 6,
+   "title": "The *upsell*",
+   "lines": [
+    "A $50 monthly refresh: new rows in, summary updated, two sentences from you.",
+    "Six clients is $300 a month of recurring work, about an hour each."
+   ],
+   "bg": "scenes_w4/books_bd.jpg",
+   "move": "out"
+  },
+  {
+   "type": "item",
+   "n": 6,
+   "of": 6,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "Claude Pro is $20 a month; the add-on needs a paid plan.",
+    "Check every formula before you send. Source: Anthropic, Oct 6, 2026."
+   ],
+   "bg": "scenes_w4/books_bd.jpg",
+   "move": "in"
+  },
+  {
+   "type": "cta",
+   "text": "Know a shop with a *messy spreadsheet*? Tag them.",
+   "bg": "scenes_w4/books_bd.jpg",
+   "move": "left"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}

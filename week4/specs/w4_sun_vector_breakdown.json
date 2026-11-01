@@ -1,0 +1,92 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Breakdown: you asked",
+   "text": "How to sell *AI vector files* on Etsy, step by step",
+   "bg": "scenes_w4/vector_bd.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 6,
+   "title": "Step 1: *pick a lane*",
+   "lines": [
+    "SVG cut files for Cricut users, logo templates, sticker sheets. One niche: teachers, nurses, dog groomers.",
+    "Search Etsy for 'svg bundle' and read the top ten listings before you make anything."
+   ],
+   "bg": "scenes_w4/vector_bd.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 6,
+   "title": "Step 2: *make it*",
+   "lines": [
+    "Ideogram Vector 1.0 (Oct 22). Prompt: 'Floral monogram frame, single color, clean closed paths, no text.'",
+    "Open the SVG in Inkscape (free) or Canva. Delete stray points, name the layers, test a cut if you own a machine."
+   ],
+   "bg": "scenes_w4/vector_bd.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 6,
+   "title": "Step 3: *prove it*",
+   "lines": [
+    "Etsy's Oct 22 AI rules: state your creative role, disclose the AI, show a real preview.",
+    "Cut one on vinyl and photograph it. That photo is your listing image."
+   ],
+   "bg": "scenes_w4/vector_bd.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 6,
+   "title": "Step 4: *list it*",
+   "lines": [
+    "Claude prompt: 'Write an Etsy title, 13 tags and a description for this SVG bundle. Shopper language, no AI hype.'",
+    "Bundle 10 to 20 files. Bundles outsell singles."
+   ],
+   "bg": "scenes_w4/vector_bd.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "of": 6,
+   "title": "The *math*",
+   "lines": [
+    "A $6 bundle: Etsy keeps 20 cents listing, 39 cents transaction, 43 cents processing. You keep about $5.",
+    "Twenty sales a week is roughly $400 a month. Sales, not a promise."
+   ],
+   "bg": "scenes_w4/vector_bd.jpg",
+   "move": "out"
+  },
+  {
+   "type": "item",
+   "n": 6,
+   "of": 6,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "Vector 1.0 costs 13 to 32 cents a file through the API; app plans from $15 a month.",
+    "Never sell a logo that copies a brand. Sources: Ideogram, Oct 22; Etsy Seller Handbook, Oct 22, 2026."
+   ],
+   "bg": "scenes_w4/vector_bd.jpg",
+   "move": "in"
+  },
+  {
+   "type": "cta",
+   "text": "Would you list a *10-file bundle* this week? *Yes or no* below.",
+   "bg": "scenes_w4/vector_bd.jpg",
+   "move": "left"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}

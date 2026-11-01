@@ -1,0 +1,13 @@
+{
+ "scenes": [
+  {
+   "type": "cta",
+   "text": "Your turn. What's the *one AI money move* you made this month? Comment it or tag us. The best one gets its own *breakdown reel*.",
+   "bg": "scenes_w4/ugc.jpg",
+   "move": "in"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}

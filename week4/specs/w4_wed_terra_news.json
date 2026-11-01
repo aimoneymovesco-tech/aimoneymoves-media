@@ -1,0 +1,68 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "AI news: Oct 26, 2026",
+   "text": "OpenAI's new model *does the clicking*: invoices into the books, at *half the price*",
+   "bg": "scenes_w4/terra.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *changed*",
+   "lines": [
+    "Oct 26: GPT-6.1 Terra, built for computer use. OpenAI's own example: read incoming invoices and enter them into accounting software.",
+    "It also fills forms, drafts proposals and reads technical drawings."
+   ],
+   "bg": "scenes_w4/terra.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "What it *means* for you",
+   "lines": [
+    "Data entry is the first freelance job this eats. If you sell bookkeeping, sell the review and the advice, not the typing.",
+    "It runs in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise and Edu. Not in regular ChatGPT chat yet."
+   ],
+   "bg": "scenes_w4/terra.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "OpenAI says three times faster than GPT-6 Astra on agent tasks. Vendor numbers, no outside test yet.",
+    "Source: OpenAI, Oct 26; AI Catchup, Oct 27, 2026."
+   ],
+   "bg": "scenes_w4/terra.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "The *cost*",
+   "lines": [
+    "API: $1 per million input tokens, $5 output. Half of GPT-6.1 Sol.",
+    "One invoice run costs cents. That is why the price of data entry is heading to zero."
+   ],
+   "bg": "scenes_w4/terra.jpg",
+   "move": "right"
+  },
+  {
+   "type": "cta",
+   "text": "Is *data entry* dead? *Yes or no* below.",
+   "bg": "scenes_w4/terra.jpg",
+   "move": "out"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}

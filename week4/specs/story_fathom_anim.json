@@ -1,0 +1,94 @@
+{
+ "pace": 1.35,
+ "bg_dark": 0.82,
+ "palette": "vintage",
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Real story",
+   "text": "*Laid off by AI* at 48. *$300* and 12 AI agents later: *$300,000* a year",
+   "bg": "scenes_w4/f1.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 5,
+   "title": "Who: *Sam Brown*, 48",
+   "lines": [
+    "Austin, Texas. Laid off nine months earlier. \"It was AI-related.\"",
+    "Teamed up with Ben Hooten, 39, a former sales rep, and Dan Crump, 56, a former Marine.",
+    "Fathom AI, launched early 2026: a sales tool for medical aesthetics clinics."
+   ],
+   "bg": "scenes_w4/f1.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 5,
+   "title": "The *$300* start",
+   "lines": [
+    "Starting capital: $300. No outside money.",
+    "They got a term sheet from venture capitalists and walked away.",
+    "Structured as a partnership that pays out the profits."
+   ],
+   "bg": "scenes_w4/f2.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 5,
+   "title": "The *AI* part",
+   "lines": [
+    "Twelve AI agents do the work of a staff.",
+    "One runs customer success for a national sales force. Another scans competitors every two hours and files a briefing.",
+    "Live Google search data and AI roleplay for sales training."
+   ],
+   "bg": "scenes_w4/f3.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 5,
+   "title": "The *numbers*",
+   "lines": [
+    "About $300,000 in annual recurring revenue within 12 weeks, from records Fortune reviewed.",
+    "Gross margins above 90%. Costs under 10% of revenue.",
+    "Hooten closed $440,000 in one day, his first day using it in the field."
+   ],
+   "bg": "scenes_w4/f4.jpg",
+   "move": "right"
+  },
+  {
+   "type": "money",
+   "from": 300,
+   "to": 300000,
+   "label": "from *start-up cash* to yearly revenue in 12 weeks",
+   "sub": "SOURCE: FORTUNE, APRIL 18, 2026",
+   "bg": "scenes_w4/f5.jpg",
+   "move": "out"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "of": 5,
+   "title": "The *lesson*",
+   "lines": [
+    "Three people, no office, no funding, cash-flow positive.",
+    "They sell to an industry they already knew. The agents removed the payroll.",
+    "Nick Lichtenberg, Fortune, April 18, 2026."
+   ],
+   "bg": "scenes_w4/f5.jpg",
+   "move": "out"
+  },
+  {
+   "type": "cta",
+   "text": "Want the *3 agents* you can run for under $20 each? Comment *AGENTS* and follow.",
+   "bg": "scenes_w4/f3.jpg",
+   "move": "in"
+  }
+ ]
+}

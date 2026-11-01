@@ -1,0 +1,68 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "New: Oct 26, 2026",
+   "text": "A *free* desktop AI that runs *offline*, so client files never leave your laptop",
+   "bg": "scenes_w4/hob.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *changed*",
+   "lines": [
+    "Oct 26: Hob 0.2, a free open-source app for Mac, Windows and Linux. It picks an open model that fits your machine, like Gemma or gpt-oss, and sets it up.",
+    "Fill out PDFs, work through documents. No internet needed."
+   ],
+   "bg": "scenes_w4/hob.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "The *money* use",
+   "lines": [
+    "Bookkeepers, virtual assistants and paralegals with NDA files can finally use AI on them.",
+    "Try: drop in a client contract and ask for the payment terms and deadlines."
+   ],
+   "bg": "scenes_w4/hob.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "Small local models are weaker than ChatGPT or Claude. Good for sorting and summarizing, not legal advice.",
+    "Needs a recent machine; older laptops crawl. Version 0.2 is early software. Source: Hob on GitHub, Oct 26, 2026."
+   ],
+   "bg": "scenes_w4/hob.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "The *cost*",
+   "lines": [
+    "Free. MIT license, no account, no subscription.",
+    "The only cost is disk space for the model."
+   ],
+   "bg": "scenes_w4/hob.jpg",
+   "move": "right"
+  },
+  {
+   "type": "cta",
+   "text": "Would you *trust offline AI* with client files? *Yes or no* below.",
+   "bg": "scenes_w4/hob.jpg",
+   "move": "out"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}

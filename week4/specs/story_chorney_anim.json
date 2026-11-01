@@ -1,0 +1,94 @@
+{
+ "pace": 1.35,
+ "bg_dark": 0.82,
+ "palette": "vintage",
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Real story",
+   "text": "A *29-year-old* cleaner used AI to go from *$242K* to *$1.3 million*",
+   "bg": "scenes_w4/c1.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 5,
+   "title": "Who: *Rick Chorney*, 29",
+   "lines": [
+    "Abbotsford, British Columbia. Started subcontracting cleaning jobs at about $14 an hour.",
+    "Co-founded Echo Janitorial Services in 2023 with his friend Adrian.",
+    "Construction sites and offices. Sixteen cleaners today."
+   ],
+   "bg": "scenes_w4/c1.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 5,
+   "title": "The *AI* part",
+   "lines": [
+    "ChatGPT first, just to polish emails. Then Claude as a business advisor: labor law, case studies, operations manuals.",
+    "Perplexity for research, Grok for content.",
+    "\"I went a little crazy,\" he said."
+   ],
+   "bg": "scenes_w4/c4.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 5,
+   "title": "The *receptionist*",
+   "lines": [
+    "Jobber's AI receptionist answers up to 15 calls an hour for $99 a month.",
+    "A human doing that job: about $4,000 a month, per Fortune.",
+    "Fixer AI sorts his inbox. Email takes 20 minutes a day."
+   ],
+   "bg": "scenes_w4/c3.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 5,
+   "title": "The *numbers*",
+   "lines": [
+    "$242,000 two years ago. Just under $1 million last year.",
+    "On track to clear $1.3 million this year.",
+    "Workdays went from about 19 hours to eight."
+   ],
+   "bg": "scenes_w4/c2.jpg",
+   "move": "right"
+  },
+  {
+   "type": "money",
+   "from": 242000,
+   "to": 1300000,
+   "label": "yearly *sales*, two years apart",
+   "sub": "SOURCE: FORTUNE, MARCH 28, 2026",
+   "bg": "scenes_w4/c5.jpg",
+   "move": "out"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "of": 5,
+   "title": "The *lesson*",
+   "lines": [
+    "He didn't build an AI company. He put AI under a cleaning company.",
+    "\"I don't have to be doing all the things I'm doing.\"",
+    "Nick Lichtenberg, Fortune, March 28, 2026."
+   ],
+   "bg": "scenes_w4/c5.jpg",
+   "move": "out"
+  },
+  {
+   "type": "cta",
+   "text": "Want the *$99 AI receptionist* setup? Comment *PHONE* and follow.",
+   "bg": "scenes_w4/c3.jpg",
+   "move": "in"
+  }
+ ]
+}

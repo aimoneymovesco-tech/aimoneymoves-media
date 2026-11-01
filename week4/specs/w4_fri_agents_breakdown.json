@@ -1,0 +1,92 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Breakdown: you asked",
+   "text": "*Three AI agents* a one-person business can run for *under $20 a month each*",
+   "bg": "scenes_w4/agents_bd.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 6,
+   "title": "Agent 1: the *competitor watch*",
+   "lines": [
+    "Perplexity Computer Automations (Pro, $20). 'Every Monday 7am: check these five competitor sites, list price and product changes, email me.'",
+    "Fathom AI runs theirs every two hours."
+   ],
+   "bg": "scenes_w4/agents_bd.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 6,
+   "title": "Agent 2: the *inbox sorter*",
+   "lines": [
+    "Gemini tasks mode (AI Pro, $19.99). 'Each morning: sort new email into Leads, Invoices, Noise. Draft replies to the leads. Wait for my OK.'",
+    "Claude Duet (Oct 21) does the same across your work apps."
+   ],
+   "bg": "scenes_w4/agents_bd.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 6,
+   "title": "Agent 3: the *bookkeeper*",
+   "lines": [
+    "Claude in Google Sheets (Pro, $20). 'Each month: pull the new rows, flag anything unusual, update the summary tab.'",
+    "You read the summary. It does the rows."
+   ],
+   "bg": "scenes_w4/agents_bd.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 6,
+   "title": "The *rule*",
+   "lines": [
+    "One agent per job. Each one pauses for your approval before anything sends or gets paid.",
+    "Fathom's twelve agents started as one."
+   ],
+   "bg": "scenes_w4/agents_bd.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "of": 6,
+   "title": "The *math*",
+   "lines": [
+    "Three agents, about $60 a month. One saved hour a day is 20 hours a month.",
+    "Charge clients for the hours. Keep the agents."
+   ],
+   "bg": "scenes_w4/agents_bd.jpg",
+   "move": "out"
+  },
+  {
+   "type": "item",
+   "n": 6,
+   "of": 6,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "Agents break when a website changes its layout. Spot-check weekly.",
+    "Sources: Fortune, Apr 18; Perplexity changelog, Oct; Google, Oct 13; Anthropic, Oct 6, 2026."
+   ],
+   "bg": "scenes_w4/agents_bd.jpg",
+   "move": "in"
+  },
+  {
+   "type": "cta",
+   "text": "Which agent would you set up *first*: watch, inbox or books? Comment it.",
+   "bg": "scenes_w4/agents_bd.jpg",
+   "move": "left"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}

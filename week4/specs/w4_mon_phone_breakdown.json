@@ -1,0 +1,92 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Breakdown: you asked",
+   "text": "The *$99 AI receptionist* for any service business",
+   "bg": "scenes_w4/phone_bd.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 6,
+   "title": "Who it's *for*",
+   "lines": [
+    "Cleaners, plumbers, detailers, lawn care: anyone losing jobs to voicemail.",
+    "Rick Chorney's Echo Janitorial runs one. Fortune, March 28, 2026."
+   ],
+   "bg": "scenes_w4/phone_bd.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 6,
+   "title": "Option 1: *buy it*",
+   "lines": [
+    "Jobber's AI Receptionist: $99 a month on top of a Jobber plan. It answers, books and texts back missed calls.",
+    "Up to 15 calls an hour, per Fortune. Check current plan prices at jobber.com."
+   ],
+   "bg": "scenes_w4/phone_bd.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 6,
+   "title": "Option 2: *build it*",
+   "lines": [
+    "Grok Voice 3.0 at 8 cents a minute plus xAI's Voice Agent Builder.",
+    "200 minutes of calls a month is about $16 in API fees, plus a phone number for a few dollars."
+   ],
+   "bg": "scenes_w4/phone_bd.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 6,
+   "title": "The *script*",
+   "lines": [
+    "Claude prompt: 'Write a receptionist script for a cleaning company: greet, ask service, size, date and phone, confirm, promise a callback within an hour.'",
+    "Give it your real prices and service area. Nothing else."
+   ],
+   "bg": "scenes_w4/phone_bd.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "of": 6,
+   "title": "The *math*",
+   "lines": [
+    "One saved $300 job a month pays for a year of the Jobber add-on.",
+    "Chorney's comparison: a human on phones is about $4,000 a month."
+   ],
+   "bg": "scenes_w4/phone_bd.jpg",
+   "move": "out"
+  },
+  {
+   "type": "item",
+   "n": 6,
+   "of": 6,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "Run it on your own line for a week before customers hear it.",
+    "Tell callers it's an AI; some states require it. Sources: Fortune, Mar 28; xAI, Oct 14, 2026."
+   ],
+   "bg": "scenes_w4/phone_bd.jpg",
+   "move": "in"
+  },
+  {
+   "type": "cta",
+   "text": "Would you let an *AI answer* your business line? *Yes or no* below.",
+   "bg": "scenes_w4/phone_bd.jpg",
+   "move": "left"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}

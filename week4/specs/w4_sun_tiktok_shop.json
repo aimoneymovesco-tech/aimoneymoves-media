@@ -1,0 +1,68 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "AI news: Oct 5, 2026",
+   "text": "TikTok's new *AI shopper* buys for people *without leaving the feed*",
+   "bg": "scenes_w4/tiktok.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *changed*",
+   "lines": [
+    "Oct 5: TikTok rolled out a Shopping Assistant, an AI agent that answers sizing, shipping and stock questions and finishes the purchase.",
+    "Plus one-click checkout straight from the For You feed. Built with Shopify, Salesforce and Stripe."
+   ],
+   "bg": "scenes_w4/tiktok.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "The *money* use",
+   "lines": [
+    "Affiliates: fewer taps between your video and the sale means more commissions on the same views.",
+    "Sellers: list full specs in TikTok Shop, because the assistant reads them to answer buyers."
+   ],
+   "bg": "scenes_w4/tiktok.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "TikTok says 54 million Americans bought after watching a TikTok. Its own number.",
+    "Rollout timing and fees are not public yet. Source: Aisha Malik, TechCrunch, Oct 5, 2026."
+   ],
+   "bg": "scenes_w4/tiktok.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "The *cost*",
+   "lines": [
+    "TikTok Shop affiliate is free to join once you clear TikTok's follower minimum. Each seller sets the commission.",
+    "Sellers pay TikTok a cut of every order; check the current rate in Seller Center before you price."
+   ],
+   "bg": "scenes_w4/tiktok.jpg",
+   "move": "right"
+  },
+  {
+   "type": "cta",
+   "text": "Would you *buy from an AI* inside TikTok? *Yes or no* below.",
+   "bg": "scenes_w4/tiktok.jpg",
+   "move": "out"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}

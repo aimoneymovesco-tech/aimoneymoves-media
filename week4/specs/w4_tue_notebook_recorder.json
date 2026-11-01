@@ -1,0 +1,68 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "New: Oct 27, 2026",
+   "text": "Gemini Notebook now *records your meetings* and *answers questions* about them",
+   "bg": "scenes_w4/recorder.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *changed*",
+   "lines": [
+    "Oct 27: the Notebook mobile app got a built-in recorder. Tap, record up to an hour, and the audio becomes a source you can question.",
+    "Pair it with photos of handwritten notes in the same notebook."
+   ],
+   "bg": "scenes_w4/recorder.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "The *money* use",
+   "lines": [
+    "Freelancers: record the discovery call, with permission. Then ask: 'List what the client wants, budget hints and three open questions.'",
+    "Draft the proposal from that. Bill the hour, not the typing."
+   ],
+   "bg": "scenes_w4/recorder.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "One hour per recording, so split long meetings.",
+    "Recording laws vary; ask before you press record. Source: Google on X, Oct 27; Digital Trends, Oct 28, 2026."
+   ],
+   "bg": "scenes_w4/recorder.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "The *cost*",
+   "lines": [
+    "Free with a Google account. Google AI Pro ($19.99 a month) raises the limits.",
+    "No separate transcription app to pay for."
+   ],
+   "bg": "scenes_w4/recorder.jpg",
+   "move": "right"
+  },
+  {
+   "type": "cta",
+   "text": "Tag a freelancer who still *types notes* on calls.",
+   "bg": "scenes_w4/recorder.jpg",
+   "move": "out"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}
