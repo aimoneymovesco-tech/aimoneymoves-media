@@ -1,0 +1,68 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "New: Oct 29, 2026",
+   "text": "Canva's new *Brush* model edits a *whole design* from one sentence",
+   "bg": "scenes_w4/brush.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *changed*",
+   "lines": [
+    "Oct 29: Canva Brush, its first AI model built to edit designs you already have, not make new ones.",
+    "Type the change. It rewrites text, swaps colors, resizes a slide into an Instagram post, across every page at once."
+   ],
+   "bg": "scenes_w4/brush.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "The *money* use",
+   "lines": [
+    "Freelance designers: client revisions are the hours nobody pays for. 'Make the headline shorter, warm up the colors, resize for Stories' is one prompt now.",
+    "Charge a flat revision fee. Let Brush do round one."
+   ],
+   "bg": "scenes_w4/brush.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "Beta for Canva Pro only; free accounts don't get it yet. Brand Kit support is still coming.",
+    "Canva's own numbers: up to 69% faster and 46% cheaper per edit than its old agent. Source: Canva, Oct 29; The AI Economy, Oct 29, 2026."
+   ],
+   "bg": "scenes_w4/brush.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "The *cost*",
+   "lines": [
+    "Canva Pro: $18 a month, or $15 a month billed yearly. Everything Brush touches stays editable, so you can still fix it by hand.",
+    "One saved revision hour pays the month."
+   ],
+   "bg": "scenes_w4/brush.jpg",
+   "move": "right"
+  },
+  {
+   "type": "cta",
+   "text": "Would you let *AI do round one* of client revisions? *Yes or no* below.",
+   "bg": "scenes_w4/brush.jpg",
+   "move": "out"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}
