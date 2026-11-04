@@ -1,0 +1,68 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "AI news: Oct 28, 2026",
+   "text": "Shopify stores now *sell inside* Claude, Grok and Meta's AI, with *Shop Pay* checkout",
+   "bg": "scenes_w4/shopagent.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *changed*",
+   "lines": [
+    "Oct 28: Shopify's Fall '26 Edition. Shop Pay checkout now runs inside Meta's Muse, Claude Duet and Instinct. The agent never sees your card.",
+    "Point ChatGPT or Claude at shop.md and it becomes a personal shopper: a billion products, Shop Pay checkout, order tracking."
+   ],
+   "bg": "scenes_w4/shopagent.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "What it *means* for you",
+   "lines": [
+    "If you sell online, an AI agent can now be the one that finds and buys your product. Fill in every spec, size and shipping fact, because the agent reads them, not your photos.",
+    "Brands not on Shopify can take Shop Pay inside Claude Duet, Grok Bot and Instinct too."
+   ],
+   "bg": "scenes_w4/shopagent.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "Run the *store* from chat",
+   "lines": [
+    "Shopify connectors now work in nine agents: ChatGPT, Claude, Gemini, Grok, Perplexity and more. 'Show me yesterday's orders, draft a restock list, change the price on the blue one.'",
+    "Sidekick in the admin now does math, writes code and asks before it changes anything."
+   ],
+   "bg": "scenes_w4/shopagent.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "Shop Pay in agents starts with three apps; rollout dates per agent are not public. Shopify says 400 million people have Shop Pay.",
+    "Shopify plans: $1 a month for 3 months, then Basic $39, or $29 billed yearly. Source: Shopify newsroom, Oct 28; ChannelX, Nov 2, 2026."
+   ],
+   "bg": "scenes_w4/shopagent.jpg",
+   "move": "right"
+  },
+  {
+   "type": "cta",
+   "text": "Would you let an *AI agent buy for you*? *Yes or no* below.",
+   "bg": "scenes_w4/shopagent.jpg",
+   "move": "out"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}
