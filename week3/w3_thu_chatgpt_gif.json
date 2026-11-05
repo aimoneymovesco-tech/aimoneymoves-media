@@ -1,0 +1,67 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "New: Nov 4, 2026",
+   "text": "ChatGPT now makes *animated GIFs* from a sentence or a photo, and lets you *edit the frames*",
+   "bg": "scenes_w4/gifdesk.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *changed*",
+   "lines": [
+    "Nov 4: OpenAI's Images 2.6 model rolled out to all ChatGPT users on web, desktop and mobile, Codex included.",
+    "Type 'make a GIF of a cat dancing' or upload a photo. Then change the speed or fix single frames before you share it."
+   ],
+   "bg": "scenes_w4/gifdesk.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "The *money use*",
+   "lines": [
+    "Animated product teasers for your store's emails and posts. GIF stickers for a brand's GIPHY channel. Animated emotes for streamers.",
+    "Sellers on Fiverr and Etsy already charge for animated emotes and stickers. Round one now takes a sentence; you sell the polish."
+   ],
+   "bg": "scenes_w4/gifdesk.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "OpenAI has not published GIF length, frame count or per-plan limits yet, so expect short, looping clips and a daily cap on free accounts.",
+    "OpenAI says over 4 billion images a week now, 1 billion more than September. Source: The Verge; The Decoder, Nov 4, 2026."
+   ],
+   "bg": "scenes_w4/gifdesk.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "The *cost*",
+   "lines": [
+    "ChatGPT Free: $0 with limited image generations a day. Plus: $20 a month for more. No extra charge for GIFs."
+   ],
+   "bg": "scenes_w4/gifdesk.jpg",
+   "move": "right"
+  },
+  {
+   "type": "cta",
+   "text": "What would you *animate first*: a product, a sticker or a meme? *Comment* below.",
+   "bg": "scenes_w4/gifdesk.jpg",
+   "move": "out"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}
