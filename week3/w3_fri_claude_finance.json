@@ -1,0 +1,67 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "New: Nov 5, 2026",
+   "text": "Claude can now *read your bank accounts* and tell you *where the money went*",
+   "bg": "scenes_w4/bankdesk.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "of": 4,
+   "title": "What *changed*",
+   "lines": [
+    "Nov 5: Anthropic launched Personal Finance in Claude. Connect your bank and credit cards through Plaid, then ask it questions in plain English.",
+    "Read-only. It cannot move, manage or invest a dollar. It sees balances, limits and up to two years of transactions."
+   ],
+   "bg": "scenes_w4/bankdesk.jpg",
+   "move": "right"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "of": 4,
+   "title": "The *money use*",
+   "lines": [
+    "Ask 'Where did my money go this month?' and 'Is that more than usual?' It sorts spending by category and flags duplicate charges, surprise fees and bills that keep creeping up.",
+    "Then ask 'How much interest did I pay last year?' It explains APR and does the math. That is the number that changes behavior."
+   ],
+   "bg": "scenes_w4/bankdesk.jpg",
+   "move": "left"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "of": 4,
+   "title": "*Tested*, not hyped",
+   "lines": [
+    "Beta, US only, rolling out this week to Pro, Max and Ultra. Not on the free plan. Chats in the finance hub are not used for training.",
+    "No ads, no sponsored cards or loans. Claude is catching up to ChatGPT, which added bank tools in May. Source: TechCrunch, Aisha Malik, Nov 5, 2026."
+   ],
+   "bg": "scenes_w4/bankdesk.jpg",
+   "move": "in"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "of": 4,
+   "title": "The *cost*",
+   "lines": [
+    "Claude Pro: $20 a month. Free plan: not included yet. Plaid connection: no extra charge."
+   ],
+   "bg": "scenes_w4/bankdesk.jpg",
+   "move": "right"
+  },
+  {
+   "type": "cta",
+   "text": "Would you let an *AI read your bank statements*? *Yes or no* below.",
+   "bg": "scenes_w4/bankdesk.jpg",
+   "move": "out"
+  }
+ ],
+ "bg_dark": 0.8,
+ "pace": 1.2,
+ "palette": "vintage"
+}
